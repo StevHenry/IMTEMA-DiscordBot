@@ -8,7 +8,7 @@ public class BotMain {
     private static final Logger LOGGER = LoggerFactory.getLogger(BotMain.class);
 
     public static void main(String[] args) {
-        //TEST 2
+        //TEST  2
 
     }
 }
